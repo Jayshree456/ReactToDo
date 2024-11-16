@@ -12,19 +12,20 @@ There are 2 project structure deployed in this repository. "react-todo" is the f
 #Run this application:
 
 1. Install the libraries for react-todo
-  npm i   bootstrap  bootstrap-icons
-  npm i   react-cookie
-  npm i   react-router-dom
-  npm i   formik  yup
-  npm i   moment
-  npm i   axios
-  npm i @mui/material @emotion/react @emotion/styled
+  1. npm i   bootstrap  bootstrap-icons
+  2. npm i   react-cookie
+  3. npm i   react-router-dom
+  4. npm i   formik  yup
+  5. npm i   moment
+  6. npm i   axios
+  7. npm i @mui/material @emotion/react @emotion/styled
 
-  To Run the react-todo:
-    >npm start
+
+  To Run the react-todo application use below command:
+    1.npm start   
     > Then use this url to run the app: http://localhost:3000/
   To test this application
-    >npm test
+    1.npm test
 
 2. To Run the server-app:
    Install libraries
