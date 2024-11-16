@@ -21,14 +21,15 @@ There are 2 project structure deployed in this repository. "react-todo" is the f
   7. npm i @mui/material @emotion/react @emotion/styled
 
 
-  To Run the react-todo application use below command:
+2.To Run the react-todo application use below command:
     1.npm start   
     > Then use this url to run the app: http://localhost:3000/
   To test this application
     1.npm test
 
-2. To Run the server-app:
+3. To Run the server-app:
    Install libraries
-   npm install  express  mongodb  cors  --save
->node business-layer.js
+     1. npm install  express  mongodb  cors  --save
+   Use below command to run:
+    1. node business-layer.js
 For information purpose, server side program will run in ->   http://localhost:4040/routes (this will be internally invoked from react app)
